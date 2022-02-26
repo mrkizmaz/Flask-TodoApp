@@ -1,4 +1,3 @@
-import re
 from flask import Flask, flash, render_template, redirect, request, url_for, flash
 from flask_sqlalchemy import SQLAlchemy
 
