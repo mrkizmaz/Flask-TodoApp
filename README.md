@@ -1,3 +1,3 @@
 # Flask-TodoApp
-Flask ile todo uygulaması
-Uygulamanın sitesine ulaşmak içim --> http://mrkizmaz.pythonanywhere.com/
+Flask ile todo uygulaması \n
+Uygulamanın sitesine ulaşmak içi --> http://mrkizmaz.pythonanywhere.com/
